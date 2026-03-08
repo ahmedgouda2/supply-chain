@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,MAPE%
+Linear Regression,496.45,890.47,0.98,20.04
+Ridge Regression,468.37,889.49,0.98,15.99
+Random Forest,324.88,851.09,0.98,4.72
+Gradient Boosting,245.71,581.19,0.99,4.25
